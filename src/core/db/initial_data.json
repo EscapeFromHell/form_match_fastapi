@@ -1,0 +1,150 @@
+[
+  {
+    "name": "BasicInfoForm",
+    "full_name": "text",
+    "email": "email",
+    "phone_number": "phone"
+  },
+  {
+    "name": "ContactForm",
+    "first_name": "text",
+    "last_name": "text",
+    "email": "email",
+    "mobile": "phone"
+  },
+  {
+    "name": "OrderForm",
+    "order_id": "text",
+    "product_name": "text",
+    "order_date": "date",
+    "customer_email": "email",
+    "customer_phone": "phone"
+  },
+  {
+    "name": "SurveyForm",
+    "survey_name": "text",
+    "participant_name": "text",
+    "participant_email": "email",
+    "response_date": "date"
+  },
+  {
+    "name": "RegistrationForm",
+    "username": "text",
+    "password": "text",
+    "email": "email",
+    "phone": "phone"
+  },
+  {
+    "name": "EventFeedbackForm",
+    "event_name": "text",
+    "attendee_name": "text",
+    "attendee_email": "email",
+    "feedback": "text"
+  },
+  {
+    "name": "AppointmentForm",
+    "appointment_id": "text",
+    "patient_name": "text",
+    "doctor_name": "text",
+    "appointment_date": "date",
+    "patient_contact": "phone"
+  },
+  {
+    "name": "JobApplicationForm",
+    "applicant_name": "text",
+    "applicant_email": "email",
+    "phone_number": "phone",
+    "resume": "text"
+  },
+  {
+    "name": "NewsletterSubscriptionForm",
+    "subscriber_name": "text",
+    "subscriber_email": "email",
+    "subscribe_date": "date"
+  },
+  {
+    "name": "SupportTicketForm",
+    "ticket_id": "text",
+    "issue_description": "text",
+    "customer_name": "text",
+    "customer_email": "email",
+    "contact_number": "phone"
+  },
+  {
+    "name": "ProjectProposalForm",
+    "project_name": "text",
+    "client_name": "text",
+    "client_email": "email",
+    "start_date": "date",
+    "project_description": "text"
+  },
+  {
+    "name": "ComplaintForm",
+    "complaint_id": "text",
+    "customer_name": "text",
+    "customer_email": "email",
+    "complaint_date": "date",
+    "issue_description": "text"
+  },
+  {
+    "name": "MembershipApplicationForm",
+    "member_name": "text",
+    "member_email": "email",
+    "phone_number": "phone",
+    "join_date": "date"
+  },
+  {
+    "name": "EventRegistrationForm",
+    "event_name": "text",
+    "attendee_name": "text",
+    "attendee_email": "email",
+    "registration_date": "date"
+  },
+  {
+    "name": "FeedbackForm",
+    "feedback_id": "text",
+    "user_name": "text",
+    "user_email": "email",
+    "feedback_date": "date",
+    "comments": "text"
+  },
+  {
+    "name": "TravelBookingForm",
+    "booking_id": "text",
+    "traveler_name": "text",
+    "traveler_email": "email",
+    "departure_date": "date",
+    "destination": "text"
+  },
+  {
+    "name": "EmployeeOnboardingForm",
+    "employee_name": "text",
+    "employee_email": "email",
+    "phone_number": "phone",
+    "start_date": "date",
+    "department": "text"
+  },
+  {
+    "name": "ProductReviewForm",
+    "product_name": "text",
+    "reviewer_name": "text",
+    "reviewer_email": "email",
+    "review_date": "date",
+    "review_text": "text"
+  },
+  {
+    "name": "VolunteerSignupForm",
+    "volunteer_name": "text",
+    "volunteer_email": "email",
+    "phone_number": "phone",
+    "signup_date": "date",
+    "availability": "text"
+  },
+  {
+    "name": "BookLoanForm",
+    "book_id": "text",
+    "borrower_name": "text",
+    "borrower_email": "email",
+    "loan_date": "date"
+  }
+]

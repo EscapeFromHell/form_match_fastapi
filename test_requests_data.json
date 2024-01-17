@@ -1,0 +1,266 @@
+{
+  "success":
+    [
+      {
+        "full_name": "John Doe",
+        "email": "john.doe@mail.com",
+        "phone_number": "+7 987 654 32 10"
+      },
+      {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.johnson@mail.com",
+        "mobile": "+7 912 345 67 89"
+      },
+      {
+        "order_id": "ORD12345",
+        "product_name": "Widget X",
+        "order_date": "2023-11-30",
+        "customer_email": "customer@mail.com",
+        "customer_phone": "+7 999 888 77 66"
+      },
+      {
+        "survey_name": "Customer Satisfaction",
+        "participant_name": "Bob",
+        "participant_email": "bob@mail.com",
+        "response_date": "2023-12-05"
+      },
+      {
+        "username": "user123",
+        "password": "securepass",
+        "email": "user123@mail.com",
+        "phone": "+7 987 654 32 10"
+      },
+      {
+        "event_name": "Annual Conference",
+        "attendee_name": "Eva",
+        "attendee_email": "eva@mail.com",
+        "feedback": "Great event!"
+      },
+      {
+        "appointment_id": "APT5678",
+        "patient_name": "Sam",
+        "doctor_name": "Dr. Smith",
+        "appointment_date": "2023-12-10",
+        "patient_contact": "+7 931 234 56 78"
+      },
+      {
+        "applicant_name": "Alex",
+        "applicant_email": "alex@mail.com",
+        "phone_number": "+7 921 111 22 33",
+        "resume": "Qualifications and experience..."
+      },
+      {
+        "subscriber_name": "Grace",
+        "subscriber_email": "grace@mail.com",
+        "subscribe_date": "2023-11-28"
+      },
+      {
+        "ticket_id": "SUP456",
+        "issue_description": "Technical issue",
+        "customer_name": "Charlie",
+        "customer_email": "charlie@mail.com",
+        "contact_number": "+7 915 876 54 32"
+      },
+      {
+        "project_name": "New Website Development",
+        "client_name": "XYZ Corp",
+        "client_email": "xyz@mail.com",
+        "start_date": "2024-01-15",
+        "project_description": "Details about the project..."
+      },
+      {
+        "complaint_id": "CMP789",
+        "customer_name": "Lisa",
+        "customer_email": "lisa@mail.com",
+        "complaint_date": "2023-12-02",
+        "issue_description": "Service complaint"
+      },
+      {
+        "member_name": "Tom",
+        "member_email": "tom@mail.com",
+        "phone_number": "+7 922 222 33 44",
+        "join_date": "2023-11-25"
+      },
+      {
+        "event_name": "Workshop on AI",
+        "attendee_name": "Mark",
+        "attendee_email": "mark@mail.com",
+        "registration_date": "2023-11-29"
+      },
+      {
+        "feedback_id": "FDB987",
+        "user_name": "Sophie",
+        "user_email": "sophie@mail.com",
+        "feedback_date": "07.12.2023",
+        "comments": "Excellent service!"
+      },
+      {
+        "booking_id": "TRV234",
+        "traveler_name": "Olivia",
+        "traveler_email": "olivia@mail.com",
+        "departure_date": "2023-12-20",
+        "destination": "Paris, France"
+      },
+      {
+        "employee_name": "Jake",
+        "employee_email": "jake@mail.com",
+        "phone_number": "+7 919 876 54 32",
+        "start_date": "2024-02-01",
+        "department": "IT"
+      },
+      {
+        "product_name": "Gadget X",
+        "reviewer_name": "Nathan",
+        "reviewer_email": "nathan@mail.com",
+        "review_date": "2023-12-12",
+        "review_text": "Impressive product!"
+      },
+      {
+        "volunteer_name": "Amy",
+        "volunteer_email": "amy@mail.com",
+        "phone_number": "+7 910 555 44 33",
+        "signup_date": "2023-11-26",
+        "availability": "Weekends"
+      },
+      {
+        "book_id": "BLF123",
+        "borrower_name": "Helen",
+        "borrower_email": "helen@mail.com",
+        "loan_date": "2023-12-15"
+      }
+    ],
+  "not_found":
+    [
+      {
+        "full_name": "John Doe",
+        "phone_number": "+7 987 654 32 10"
+      },
+      {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.johnson@mail.com"
+      },
+      {
+        "order_id": "ORD12345",
+        "product_name": "Widget X",
+        "date": "2023-11-30",
+        "customer_email": "customer@mail.com",
+        "customer_phone": "+7 999 888 77 66"
+      },
+      {
+        "participant_name": "Bob",
+        "participant_email": "bob@mail.com",
+        "response_date": "2023-12-05"
+      },
+      {
+        "username": "user123",
+        "email": "user123@mail.com",
+        "phone": "+7 987 654 32 10"
+      },
+      {
+        "event_name": "Annual Conference",
+        "attendee_name": "Eva",
+        "feedback": "Great event!"
+      },
+      {
+        "patient_name": "Sam",
+        "doctor_name": "Dr. Smith",
+        "appointment_date": "2023-12-10",
+        "patient_contact": "+7 931 234 56 78"
+      },
+      {
+        "applicant_name": "Alex",
+        "applicant_email": "alex@mail.com",
+        "phone_number": "+7 921 111 22 33"
+      },
+      {
+        "subscriber_name": "Grace",
+        "subscribe_date": "2023-11-28"
+      },
+      {
+        "issue_description": "Technical issue",
+        "customer_name": "Charlie",
+        "customer_email": "charlie@mail.com",
+        "contact_number": "+7 915 876 54 32"
+      },
+      {
+        "project_name": "New Website Development",
+        "project_description": "Details about the project..."
+      },
+      {
+        "customer_name": "Lisa",
+        "customer_email": "lisa@mail.com",
+        "complaint_date": "2023-12-02",
+        "issue_description": "Service complaint"
+      },
+      {
+        "member_name": "Tom",
+        "member_email": "tom@mail.com",
+        "phone_number": "+7 922 222 33 44"
+      },
+      {
+        "event_name": "Workshop on AI",
+        "attendee_name": "Mark",
+        "registration_date": "2023-11-29"
+      },
+      {
+        "user_name": "Sophie",
+        "user_email": "sophie@mail.com",
+        "feedback_date": "07.12.2023",
+        "comments": "Excellent service!"
+      },
+      {
+        "booking_id": "TRV234",
+        "traveler_email": "olivia@mail.com",
+        "departure_date": "2023-12-20",
+        "destination": "Paris, France"
+      },
+      {
+        "name": "Jake",
+        "email": "jake@mail.com",
+        "phone_number": "+7 919 876 54 32",
+        "start_date": "2024-02-01",
+        "department": "IT"
+      },
+      {
+        "product_name": "Gadget X",
+        "name": "Nathan",
+        "email": "nathan@mail.com",
+        "review_date": "2023-12-12",
+        "review_text": "Impressive product!"
+      },
+      {
+        "volunteer_name": "Amy",
+        "volunteer_email": "amy@mail.com",
+        "phone_number": "+7 910 555 44 33",
+        "signup_date": "2023-11-26"
+      },
+      {
+        "borrower_name": "Helen",
+        "borrower_email": "helen@mail.com",
+        "loan_date": "2023-12-15"
+      }
+    ],
+  "validation_error":
+    [
+      {
+        "full_name": "John Doe",
+        "email": "john.doe@mail.com",
+        "phone_number": "+79876543210"
+      },
+      {
+        "order_id": "ORD12345",
+        "product_name": "Widget X",
+        "order_date": "30-11-2023",
+        "customer_email": "customer@mail.com",
+        "customer_phone": "+7 999 888 77 66"
+      },
+      {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.johnson@example.com",
+        "mobile": "+7 912 345 67 89"
+      }
+    ]
+}

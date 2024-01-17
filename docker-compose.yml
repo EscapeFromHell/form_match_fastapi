@@ -1,0 +1,25 @@
+version: "3"
+services:
+  form-match-fastapi-db:
+    image: mongo:latest
+    container_name: "mongodb"
+    ports:
+      - "27017:27017"
+    env_file:
+      - .env
+    restart: always
+
+  form-match-fastapi:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    depends_on:
+      - form-match-fastapi-db
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/src
+    env_file:
+      - .env
+    command: sh -c "uvicorn --host 0.0.0.0 --port 8000 src.main:app"
+    restart: always
